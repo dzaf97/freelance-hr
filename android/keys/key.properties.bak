@@ -1,0 +1,4 @@
+storePassword=haNAVagelDOu
+keyPassword=haNAVagelDOu
+keyAlias=upload
+storeFile=../app/upload-keystore.jks
